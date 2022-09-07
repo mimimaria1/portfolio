@@ -1,0 +1,52 @@
+<head>
+   <meta charset="UTF-8"></meta>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
+   <title>Technical Documentation Page</title>
+   <link rel="stylesheet" href="styles.css"></link>
+</head>
+ <nav id="navbar">
+   <header>Introduction</header>
+    <a class="nav-link" href="a1_1">a1_1</a>
+     <a class="nav-link" href="a2_2">a2_2</a>
+      <a class="nav-link" href="a3_3">a3_3</a>
+       <a class="nav-link" href="a4_4">a4_4</a>
+        <a class="nav-link" href="a5_5">a5_5</a>
+   </nav>
+  <main id="main-doc"/>
+  <section class="main-section" id="a1_1">
+    <header>a1_1</header>
+    <p></p>
+    <p></p>
+    <code>...</code>
+    <li></li>
+    </section>
+  <section class="main-section" id="a2_2">
+    <header>a2_2</header>
+    <p></p>
+    <p></p>
+    <code>...</code>
+    <li></li>
+    </section>
+  <section class="main-section" id="a3_3">
+    <header>a3_3</header>
+    <p></p>
+    <p></p>
+    <code>...</code>
+    <li></li>
+    </section>
+  <section class="main-section" id="a4_4">
+    <header>a4_4</header>
+    <p></p>
+    <p></p>
+    <code>...</code>
+    <li></li>
+    </section>
+  <section class="main-section" id="a5_5">
+    <header>a5_5</header>
+    <p></p>
+    <p></p>
+    <code>...</code>
+    <li></li>
+    </section>
+ 
+  
