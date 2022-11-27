@@ -91,6 +91,14 @@ h1 {
   font-size: 75px;
 }
 
+h2 {
+  color: white;
+  margin: 20px 0px 20px;
+  font-size: 40px;
+  text-align: center;
+  background: #191919;
+}
+
 h3 {
   color: white;
   font-size: 25px;
@@ -103,10 +111,21 @@ h4 {
   font-size: 20px;
 }
 
+p {
+  color: white;
+  background: #191919;
+  text-align: center;
+}
+
 .newsletter form {
   width: 380px;
   max-width: 100%;
   position: relative;
+}
+
+#inbetween {
+  background: black;
+  margin-bottom: 20px;
 }
 
 .newsletter form input:first-child {
