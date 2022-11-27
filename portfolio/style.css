@@ -78,6 +78,11 @@ nav ul li a:hover {
   transform: scale(1.2);
 }
 
+.button {
+  margin-bottom: 30px;
+  /* //CENTER BUTTONS// */
+}
+
 .content-voorpagina {
   position: absolute;
   top: 50%;
@@ -114,7 +119,7 @@ h4 {
 p {
   color: white;
   text-align: center;
-  margin-bottom: 70px;
+  margin-bottom: 50px;
 }
 
 .newsletter form {
